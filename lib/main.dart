@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
         ),
         body: const Center(
           child: Text(
-            'مرحباً بك في تطبيق متجر الرفرفة!',
+            'مرحباً 22 بك في تطبيق متجر الرفرفة!',
             style: TextStyle(fontSize: 20),
           ),
         ),
